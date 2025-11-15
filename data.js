@@ -309,7 +309,7 @@ window.event_data = {
             appTarget: "",
             hoverColor: "",
             id: "owj34amy",
-            target: "./Christina Perri - A Thousand Years - LatinHype (youtube).mp3",
+            target: "./EM-DONG-Y-I-DO-DUC-PHUC-x-911-x-KHAC-HUNG-1ST-LIVE-STAGE.mp3",
             type: "click",
           },
           {
@@ -591,7 +591,7 @@ window.event_data = {
             id: "on0bslwe",
             nameFile:
               "EM ĐỒNG Ý (I DO) - ĐỨC PHÚC x 911 x KHẮC HƯNG - OFFICIAL MUSIC VIDEO - VALENTINE 2023 (mp3cut.net).mp3",
-            target: "./Christina Perri - A Thousand Years - LatinHype (youtube).mp3",
+            target: "./EM-DONG-Y-I-DO-DUC-PHUC-x-911-x-KHAC-HUNG-1ST-LIVE-STAGE.mp3",
             type: "click",
           },
           {
@@ -632,7 +632,7 @@ window.event_data = {
             id: "on0bslwe",
             nameFile:
               "EM ĐỒNG Ý (I DO) - ĐỨC PHÚC x 911 x KHẮC HƯNG - OFFICIAL MUSIC VIDEO - VALENTINE 2023 (mp3cut.net).mp3",
-            target: "./Christina Perri - A Thousand Years - LatinHype (youtube).mp3",
+            target: "./EM-DONG-Y-I-DO-DUC-PHUC-x-911-x-KHAC-HUNG-1ST-LIVE-STAGE.mp3",
             type: "click",
           },
           {
